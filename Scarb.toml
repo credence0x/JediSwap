@@ -12,3 +12,7 @@ sierra = true
 casm = true
 casm-add-pythonic-hints = true
 allowed-libfuncs-list.name = "all"
+
+
+[lib]
+name = "jediswap" 
