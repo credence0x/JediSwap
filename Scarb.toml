@@ -5,4 +5,3 @@ version = "1.0.0"
 [dependencies]
 starknet = ">=2.0.0-rc0"
 
-[[target.starknet-contract]]
