@@ -1,2 +1,2 @@
 [crate_roots]
-JediSwap = "src"
+jediswap = "src"
